@@ -1,7 +1,7 @@
+<h1 align="center">👋 ¡Hola, mundo!</h1>
+<h3 align="center">Soy <strong>Maria Juliana Saavedra</strong> — Desarrolladora Web Full Stack</h3>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2000&pause=100&color=FF61C3&center=true&vCenter=true&width=700&lines=¡Hola,+mundo!;Soy+Maria+Juliana+Saavedra;Desarrolladora+Web+Full+Stack;Apasionada+por+la+tecnología;Siempre+aprendiendo+y+creando" alt="Typing SVG" />
-</h1>
+---
 
 <p align="center">
   💻 <strong>Desarrolladora web creativa</strong> con conocimientos en <strong>HTML, CSS, JavaScript, Python, MongoDB, MySQL y Figma</strong>.<br/>
@@ -10,13 +10,19 @@
 
 ---
 
-## 🧠 Sobre mí
+## 👩‍💻 Sobre mí
 
-- 🔭 Actualmente desarrollando interfaces web limpias y funcionales.
-- 🎨 Diseño prototipos en Figma con enfoque UX/UI.
-- 🤖 Explorando el mundo de la Inteligencia Artificial.
-- 🤝 Siempre abierta a colaborar en proyectos, hackathons y comunidades.
-- 📚 Amante del aprendizaje autodidacta y las nuevas tecnologías.
+Soy Maria Juliana, una desarrolladora web apasionada por la creación de soluciones digitales que no solo funcionen, sino que también se vean increíbles. Vengo de un entorno donde la perseverancia, el aprendizaje constante y la creatividad son parte de mi ADN.
+
+- ✨ Me encanta aprender cosas nuevas, enfrentar desafíos y trabajar en proyectos que generen impacto.  
+
+
+- 🎯 Me esfuerzo por construir interfaces limpias, accesibles y centradas en el usuario.  
+
+- 📚 En mi tiempo libre, me gusta explorar nuevas herramientas tecnológicas, leer sobre UX/UI y mejorar mis habilidades en diseño y programación.  
+
+
+- 🤝 Creo firmemente en el poder de la colaboración y la comunidad para crecer profesional y personalmente.
 
 ---
 
@@ -32,16 +38,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" title="Figma" />
 </div>
 
+
+---
+
+## 📌 Proyectos Destacados
+
+
+### 🏎️ [Simulación Interactiva F1](https://github.com/Maria-Juliana-Saavedra-Mejia/Simulacion_Interactiva_F1)
+Pagina web interactiva enfocada en la visualización y gestión de datos sobre pilotos, circuitos, vehículos y escuderías de Fórmula 1. Implementado con JavaScript, HTML y CSS
+
+### 🎥 [Kario Media](https://github.com/Maria-Juliana-Saavedra-Mejia/Kario_Media)
+página web que muestre el panel de gestión de proyectos y sus módulos principales. Implementado con HTML y CSS
+
 ---
 
 ## 📊 Mis estadísticas en GitHub
 
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Maria-Juliana-Saavedra-Mejia&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Maria-Juliana-Saavedra-Mejia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+---
+## 💬 Frase que me inspira
+
+> *“La mejor forma de predecir el futuro es creándolo.”* — Alan Kay
 
 ---
 
@@ -58,9 +80,3 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   </a>
 </div>
-
----
-
-## 💬 Frase que me inspira
-
-> *“La mejor forma de predecir el futuro es creándolo.”* — Alan Kay
