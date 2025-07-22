@@ -45,10 +45,10 @@ Soy Maria Juliana, una desarrolladora web apasionada por la creación de solucio
 
 
 ### 🏎️ [Simulación Interactiva F1](https://github.com/Maria-Juliana-Saavedra-Mejia/Simulacion_Interactiva_F1)
-Pagina web interactiva enfocada en la visualización y gestión de datos sobre pilotos, circuitos, vehículos y escuderías de Fórmula 1. Implementado con JavaScript, HTML y CSS
+Pagina web interactiva enfocada en la visualización y gestión de datos sobre pilotos, circuitos, vehículos y escuderías de Fórmula 1. Implementado con JavaScript, HTML y CSS.
 
 ### 🎥 [Kario Media](https://github.com/Maria-Juliana-Saavedra-Mejia/Kario_Media)
-página web que muestre el panel de gestión de proyectos y sus módulos principales. Implementado con HTML y CSS
+página web que muestre el panel de gestión de proyectos y sus módulos principales. Implementado con HTML y CSS.
 
 ---
 
